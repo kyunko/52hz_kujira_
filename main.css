@@ -3522,7 +3522,7 @@ ol ol):not(:where([class~="not-prose"] *)) {
     height: 100%;
     min-width: 500px;
     max-width: 1000px;
-    display: block;
+    display: block !important;
 }
 
 .igallery_image {

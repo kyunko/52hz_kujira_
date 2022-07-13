@@ -3698,3 +3698,7 @@ ol ol):not(:where([class~="not-prose"] *)) {
 .expand-arrow {
     transform: rotate(0deg)
 }
+
+.image_gallery {
+    display: block;
+}
